@@ -1,2 +1,2 @@
 # cursoangular
-Curso de Angular
+Curso de Angular (Madrid, 27/11/2017)
